@@ -1,0 +1,1 @@
+**DeftCMS social authorize providers** 
