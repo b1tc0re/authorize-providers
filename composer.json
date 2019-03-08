@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "DeftCMS\\Components\\b1tc0re\\Authorize\\Providers": "src/"
+      "DeftCMS\\Components\\b1tc0re\\Authorize\\Providers\\": "src/"
     }
   }
 }
